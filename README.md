@@ -15,10 +15,10 @@ Libtorrent: Torrent-Python построен на прочной и эффект�
 
 Скопируйте репозиторий:
 
-git clone https://github.com/yourusername/torrent-python.git
+git clone https://github.com/justowenRUS/Torrent-Python.git
 Перейдите в каталог проекта:
 
-cd torrent-python
+cd Torrent-Python
 Установите необходимые пакеты:
 
 pip install -r requirements.txt
